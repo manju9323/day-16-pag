@@ -1,0 +1,21 @@
+body{
+
+    background-color: aqua;
+}
+.container{
+display:flex;
+height:100vh;
+align-items:flex-end;
+justify-content:center;
+}
+.pag{
+ height:20px;
+ width:40px;
+ flex-direction:row;
+}
+textarea{
+    display:flex;
+    height:100vh;
+    align-items:flex-start;
+    justify-content:center;
+}
